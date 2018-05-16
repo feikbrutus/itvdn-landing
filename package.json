@@ -1,0 +1,28 @@
+{
+  "name": "itvdn-landing",
+  "version": "1.0.0",
+  "description": "itvdn for students\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C cource for students\u001b[2~ dfdf\u001b[D\u001b[Ddf\u001b[D\u001b[D\u001b[D\u001b[Ddfdf\u001b[2~dfdf\u001b[D\u001b[D\u001b[Ddf\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feikbrutus/itvdn-landing.git"
+  },
+  "author": "bogdan black",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feikbrutus/itvdn-landing/issues"
+  },
+  "homepage": "https://github.com/feikbrutus/itvdn-landing#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.2.3",
+    "gulp-sass": "^4.0.1",
+    "gulp.spritesmith": "^6.9.0",
+    "rimraf": "^2.6.2"
+  }
+}
